@@ -93,9 +93,6 @@ Files used:
 ---
 
 
-
----
-
 ## ✨ Features
 
 - Top Rated Books display
