@@ -25,15 +25,15 @@ The recommendation engine uses:
 - **User-Book Rating Matrix**
 
 ### Workflow
-User Input (Book Name)
-↓
-Book-User Matrix
-↓
-Cosine Similarity Calculation
-↓
-Find Similar Books
-↓
-Display Recommendations
+- User Input (Book Name)
+- ↓
+- Book-User Matrix
+- ↓
+- Cosine Similarity Calculation
+- ↓
+- Find Similar Books
+- ↓
+- Display Recommendations
 
 ---
 
